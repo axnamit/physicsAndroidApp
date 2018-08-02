@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">VGPT Physics</string>
+    <string name="title">In Association with </string>
+    <string name="bottom">presents</string>
+    <string name="title_activity_nav_bar">navBar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="gravitation">GRAVITATION</string>
+    <string name="vector">Vector</string>
+    <string name="unit_and_dimension">Unit and dimension</string>
+    <string name="motion_in_one_dimension_2">Motion in two dimension</string>
+    <string name="motion_in_one_dimension_1">Motion in one dimension</string>
+    <string name="newton_law_of_motion_1">NEWTON LAW OF MOTION</string>
+    <string name="friction">FRICTION</string>
+    <string name="work_power_and_energy">WORK POWER AND ENERGY</string>
+    <string name="rotational_motion_1">ROTATIONAL MOTION</string>
+    <string name="elasticity">ELASTICITY</string>
+    <string name="surface_tension">SURFACE TENSION</string>
+    <string name="fluid_mechanics">FLUID MECHANICS</string>
+    <string name="thermometry">THERMOMETRY</string>
+    <string name="k_t_g">KINETIC THEORY</string>
+    <string name="thermodynamics">THERMODYNAMICS</string>
+    <string name="transmission_of_heat">TRANSMISSION OF HEAT</string>
+    <string name="shm">SHM</string>
+    <string name="wave_and_sound">WAVE AND SOUND</string>
+    <string name="about_the_app">About the app</string>
+    <string name="physics_11">Physics XI</string>
+    <string name="about_us">About us!</string>
+    <string name="about">About us !</string>
+    <string name="hh">This app is combined effort of VGPT Classes and VGPT team.
+    this give complete study notes of class 11th ,</string>
+    <string name="devloped_by">This is devleloped by Mr optimistic</string>
+    <string name="vgpt">\t \t VGPT \n CLASSES</string>
+    <string name="our_vision">\t OUR VISION</string>
+    <string name="vision">To faciliate transformation of students into good human beings, responsible citizens and competent proffessionals,focusing on assimilation,generation and deneration and disseminiation of knowledge
+    \t\n\. Impart quality education to meet the needs of profession and society , and achieve excellence in techinhg learning and research.\n
+    </string>
+    <string name="our">\t Faculty Member</string>
+
+</resources>
